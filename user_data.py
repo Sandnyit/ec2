@@ -81,3 +81,18 @@ def calculation_EC2(history,shots,sigal):
     
     
 sys.stdout.write(calculation_EC2(int(sys.argv[1]),int(sys.argv[2]),int(sys.argv[3])))
+    
+
+    
+    
+    
+    
+
+
+    
+
+
+
+
+
+
